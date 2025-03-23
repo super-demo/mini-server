@@ -149,7 +149,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Quantum Computing: Recent Advances and Future Directions",
 			Authors:       "Dr. Richard Feynman, Dr. Lisa Chen",
 			Abstract:      "This paper reviews recent developments in quantum computing, focusing on quantum supremacy experiments and potential applications in cryptography, optimization, and simulation of quantum systems.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
 			PublishedYear: 2023,
 			Field:         "Computer Science",
 			Classifications: []string{
@@ -165,7 +165,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Climate Change Impact on Marine Ecosystems: A Comprehensive Analysis",
 			Authors:       "Dr. Sarah Johnson, Dr. Michael Rodriguez",
 			Abstract:      "This research presents findings from a decade-long study on the effects of rising ocean temperatures and acidification on coral reefs and marine biodiversity across multiple climate zones.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
 			PublishedYear: 2023,
 			Field:         "Environmental Science",
 			Classifications: []string{
@@ -179,7 +179,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Artificial Intelligence Ethics: Frameworks for Responsible Development",
 			Authors:       "Dr. Alan Turing Institute, Dr. Grace Hopper",
 			Abstract:      "This paper examines ethical considerations in AI development, proposing frameworks for addressing bias, transparency, privacy, and accountability in machine learning systems.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2065&q=80",
 			PublishedYear: 2023,
 			Field:         "Computer Science",
 			Classifications: []string{
@@ -193,7 +193,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "CRISPR-Cas9 Applications in Treating Genetic Disorders",
 			Authors:       "Dr. Jennifer Doudna, Dr. Feng Zhang",
 			Abstract:      "This research explores recent advances in CRISPR-Cas9 gene editing technology and its potential applications in treating genetic disorders such as cystic fibrosis, sickle cell anemia, and Huntington's disease.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
 			PublishedYear: 2022,
 			Field:         "Biotechnology",
 			Classifications: []string{
@@ -207,7 +207,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Neuroplasticity and Cognitive Rehabilitation After Traumatic Brain Injury",
 			Authors:       "Dr. Maya Rodriguez, Dr. James Wilson",
 			Abstract:      "This paper presents findings on brain plasticity mechanisms and their implications for developing effective cognitive rehabilitation strategies for patients recovering from traumatic brain injuries.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/file-text.svg",
 			PublishedYear: 2022,
 			Field:         "Neuroscience",
 			Classifications: []string{
@@ -221,7 +221,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Renewable Energy Integration: Challenges and Solutions for Power Grids",
 			Authors:       "Dr. Elena Patel, Dr. Thomas Schmidt",
 			Abstract:      "This research addresses the technical challenges of integrating large-scale renewable energy sources into existing power grids, proposing solutions for energy storage, demand response, and grid stability.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
 			PublishedYear: 2023,
 			Field:         "Energy Engineering",
 			Classifications: []string{
@@ -235,7 +235,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Machine Learning Approaches to Drug Discovery and Development",
 			Authors:       "Dr. David Kim, Dr. Rachel Martinez",
 			Abstract:      "This paper reviews machine learning techniques applied to drug discovery, including virtual screening, de novo drug design, and prediction of pharmacokinetic properties and toxicity.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
 			PublishedYear: 2023,
 			Field:         "Pharmaceutical Science",
 			Classifications: []string{
@@ -251,7 +251,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Sustainable Urban Planning: Integrating Green Infrastructure for Climate Resilience",
 			Authors:       "Dr. Carlos Mendez, Dr. Sophia Lee",
 			Abstract:      "This research examines strategies for incorporating green infrastructure into urban planning to enhance climate resilience, reduce urban heat islands, and improve stormwater management.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1518005020951-eccb494ad742?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
 			PublishedYear: 2022,
 			Field:         "Urban Planning",
 			Classifications: []string{
@@ -267,7 +267,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Blockchain Technology for Supply Chain Transparency and Traceability",
 			Authors:       "Dr. Satoshi Nakamoto, Dr. Vitalik Buterin",
 			Abstract:      "This paper explores applications of blockchain technology in enhancing supply chain transparency, traceability, and security, with case studies from food, pharmaceutical, and luxury goods industries.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
 			PublishedYear: 2023,
 			Field:         "Computer Science",
 			Classifications: []string{
@@ -283,7 +283,7 @@ func getSamplePapers() []ResearchPaper {
 			Title:         "Immunotherapy Advances in Cancer Treatment: Personalized Approaches",
 			Authors:       "Dr. James Allison, Dr. Tasuku Honjo",
 			Abstract:      "This research reviews recent advances in cancer immunotherapy, focusing on personalized approaches such as CAR-T cell therapy, checkpoint inhibitors, and neoantigen vaccines.",
-			CoverImage:    "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/476509205_555409170843779_2189911961991409505_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dvVyY7fKDE4Q7kNvgEUsxY5&_nc_oc=Adm7pMZkVfAy3GQbposPMK9VpKk81CyRhNdrr2JqPgAp0TnQlYyuOJT7nelQ2oDVmBM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=eBOCDkseztFEgrAKMda5Xg&oh=00_AYGH3QWile1EBMI5YsbJZHdZDO8Ut6TAyNEjyCzqITjDEw&oe=67DF7CDD",
+			CoverImage:    "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/file-text.svg",
 			PublishedYear: 2023,
 			Field:         "Oncology",
 			Classifications: []string{
