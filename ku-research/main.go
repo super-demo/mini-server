@@ -116,7 +116,9 @@ func main() {
 		err := sdk.Register("Ku Research", []string{
 			"get-research",
 			"add-paper",
-		})
+		},
+			"http://host.docker.internal:8083",
+		)
 		if err == nil {
 			log.Println("✅ Ku Research registered successfully")
 			break
